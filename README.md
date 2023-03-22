@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@emreakdogantr](https://medium.com/@emreakdogantr)
 
-- 💬 Ask me about **data science**
+- 💬 Ask me about **artıfıcıal ıntellıgence**
 
 - 📫 How to reach me **emreakdgn00@gmail.com**
 
