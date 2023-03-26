@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emre Akdoğan</h1>
 <h3 align="center">Junior Artıfıcıal Intellıgence Engineer</h3>
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **Computer Vision and NLP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/emreakdogan?tab=repositories](https://github.com/emreakdogan?tab=repositories)
 
