@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre Akdoğan</h1>
-<h3 align="center">Jr. Artıfıcıal Intellıgence Engineer</h3>
+<h3 align="center">Jr. Data Scientist</h3>
 
 - 🌱 I’m currently learning **Computer Vision and NLP**
 
