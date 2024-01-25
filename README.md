@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre Akdoğan</h1>
-<h3 align="center">AI</h3>
+<h3 align="center">AI Engineer</h3>
 
 - 🌱 I’m currently learning **Generative AI**
 
